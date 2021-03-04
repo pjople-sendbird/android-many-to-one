@@ -34,14 +34,14 @@ public class ChatActivity extends AppCompatActivity {
 
     private Context mContext = this;
     private static final String TAG = "SendBird";
-    public static final String APP_ID = "D1CB1742-A4A3-44B9-9E7F-126D14BAB34B";
+    public static final String APP_ID = "YOUR APPLICATION ID HERE";
 
     /**
      * This is your representative user ID
      * Must be a Moderator user
      */
-    public static final String REPRESENTATIVE_USER_ID = "348761";
-    public static final String REPRESENTATIVE_ACCESS_TOKEN = "2d9c71ec22c60bf3d4ade992381fb8c629abb9fb";
+    public static final String REPRESENTATIVE_USER_ID = "MODERATOR USER ID";
+    public static final String REPRESENTATIVE_ACCESS_TOKEN = "MODERATOR ACCESS TOKEN";
 
     /**
      * Signed user ID
